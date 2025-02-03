@@ -25,9 +25,7 @@ $JT&yd$     $$$$$$$$$$$$$$$$.    $    $$    $   .$$$$$$$$$$$$$$$$     $by&TL$
                                  `$        $'
                                   `$$$$$$$$'
                          Snapchat Score Booster  v2
-                         - by bu3srh 
-                         - Snapchat > @iimt
-                         - Telegram > @nvnnn """
+                         - by bu3srh """
 class snapchat:
 
     def __init__(self):
@@ -117,7 +115,7 @@ class snapchat:
         now = time.time()
         elapsed = str(now - self.started_time).split(".")[0]
         sent_snaps = self.sent_snaps * shortcut_users
-        ctypes.windll.kernel32.SetConsoleTitleW(f"ScBooster | Sent Snaps: {sent_snaps} | Elapsed: {elapsed}s | by : @iimt")
+        ctypes.windll.kernel32.SetConsoleTitleW(f"ScBooster | Sent Snaps: {sent_snaps} | Elapsed: {elapsed}s | by : @maz3siri")
 
     def print_console(self, arg):
         print(f"\n       {Fore.WHITE}[{Fore.RED}Console{Fore.WHITE}] {arg}")
