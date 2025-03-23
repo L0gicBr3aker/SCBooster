@@ -13,11 +13,9 @@ A Python-based automation tool to boost your Snapchat score by automatically sen
 
 ## Requirements
 
-- **Windows OS** (Due to `ctypes.windll` usage)
 - **Python 3.6+**
 - **Any android emulator ( LDPlayer ) Recommended**
-- **Active internet connection**
-
+- 
 ## Installation
 
 1. **Install Python** (if not already installed):
